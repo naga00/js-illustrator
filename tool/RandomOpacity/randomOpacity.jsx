@@ -1,0 +1,1 @@
+//@include "tn/system/trace.jsx";var selection = activeDocument.selection;if(selection != ""){  for(var i=0; i<selection.length; i++) {    var obj = selection[i];    obj.opacity = Math.random() * 100;  }}else{  trace("not select");}

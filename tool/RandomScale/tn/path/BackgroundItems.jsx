@@ -1,0 +1,1 @@
+//@include "PathItemsEx.jsx";//@include "../color/ColorEx.jsx";function BackgroundItems(color, w, h) {	var pathItemsEx = new PathItemsEx();	pathItemsEx.setDefaultStrokeColor(color);	pathItemsEx.setDefaultFillColor(color);	pathItemsEx.drawRect(0, activeDocument.height, w, h)}

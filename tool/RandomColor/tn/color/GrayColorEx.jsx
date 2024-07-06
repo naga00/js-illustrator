@@ -1,0 +1,1 @@
+function GrayColorEx(gray) {	var color = new GrayColor();	color.gray = gray;	return color;}

@@ -1,0 +1,1 @@
+Point.prototype.x;Point.prototype.y;function Point(x, y) {	this.x = x;	this.y = y;}

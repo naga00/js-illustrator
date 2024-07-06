@@ -1,0 +1,1 @@
+function trace() {  for(var i = 0; i < arguments.length; i++) {    if(i == arguments.length - 1){      $.writeln(arguments[i]);    }else{      $.write(arguments[i], ' ');    }  }}

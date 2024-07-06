@@ -1,0 +1,1 @@
+DocumentColorSpaceEx.CMYK = "CMYK";DocumentColorSpaceEx.RGB = "RGB";DocumentColorSpaceEx.GRAY = "GRAY";DocumentColorSpaceEx.HSB = "HSB";DocumentColorSpaceEx.LAG = "LAB";DocumentColorSpaceEx.WEB = "WEB";DocumentColorSpaceEx.NO = "NO";function DocumentColorSpaceEx() {}

@@ -1,0 +1,1 @@
+function NoColorEx() {	var color = new NoColor();	return color;}

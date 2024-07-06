@@ -1,0 +1,1 @@
+Capabilities.deskTopPath = Folder.desktop.fullName;function Capabilities() {}

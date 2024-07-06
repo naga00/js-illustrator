@@ -1,0 +1,1 @@
+function RGBColorEx(red, green, blue) {	var color = new RGBColor();	color.red = red;	color.green = green;	color.blue = blue;	return color;}

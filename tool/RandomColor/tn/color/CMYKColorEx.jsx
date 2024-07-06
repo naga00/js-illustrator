@@ -1,0 +1,1 @@
+function CMYKColorEx(cyan, magenta, yellow, black) {	var color = new CMYKColor();	color.cyan = cyan;	color.magenta = magenta;	color.yellow = yellow;	color.black = black;	return color;}

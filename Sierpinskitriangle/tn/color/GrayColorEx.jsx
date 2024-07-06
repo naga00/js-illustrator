@@ -1,0 +1,1 @@
+function GrayColorEx(gray) {	var color = new GrayColor();	color.gray = gray;	return color;}GrayColor.prototype.random = function(gray) {	gray = (gray != null) ? gray : 100;	var color = new GrayColor();	color.gray = Math.random() * gray;	return color;}
